@@ -70,8 +70,24 @@ Multinomial Naive Bayes outperformed other models in terms of both accuracy and 
 - Jupyter Notebook: Interactive environment for running Python code and visualizing results.
 
 ## Screenshots
+#### percentage of spam and ham messages
+![WhatsApp Image 2024-07-19 at 6 06 27 PM](https://github.com/user-attachments/assets/80b0f2aa-dddd-4167-a7ee-6afb40f8d603)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![WhatsApp Image 2024-07-19 at 6 06 27 PM (1)](https://github.com/user-attachments/assets/05f9e45e-bd8e-49eb-9304-de2d42bbc2e1)
+
+
+![WhatsApp Image 2024-07-19 at 6 06 26 PM](https://github.com/user-attachments/assets/a2a8a2cf-0fbe-4f07-a24f-0b1efb1901c0)
+
+#### top 30 words used in spam messages
+![WhatsApp Image 2024-07-19 at 6 17 30 PM](https://github.com/user-attachments/assets/b9724b89-5f96-4b47-a0bf-d5ad7e9f99c1)
+
+
+#### Top 30 words used in normal sms
+![WhatsApp Image 2024-07-19 at 6 06 25 PM](https://github.com/user-attachments/assets/561c0d3c-6b33-40d9-9f8a-3ca58be81c87)
+
+#### comparison graph for all the data models on the basis of precision and accuracy
+![WhatsApp Image 2024-07-19 at 6 06 25 PM (1)](https://github.com/user-attachments/assets/f73c45a9-7146-48ac-9684-72eb0192e426)
+
 
 
 ## Installation
@@ -88,7 +104,18 @@ Multinomial Naive Bayes outperformed other models in terms of both accuracy and 
 - Start Jupyter Notebook:
   jupyter notebook (and run it)
 
+## Demo
+
+![WhatsApp Image 2024-07-19 at 6 23 58 PM](https://github.com/user-attachments/assets/ad20a757-6ff8-43d4-a391-648182f888d0)
+#### predicting as "not a spam" SMS
+![WhatsApp Image 2024-07-19 at 6 23 57 PM](https://github.com/user-attachments/assets/703c2c7f-ed72-48aa-af63-dcf66de8688b)
+#### predicting as "spam" SMS
+![WhatsApp Image 2024-07-19 at 6 23 57 PM (1)](https://github.com/user-attachments/assets/f7de3ae1-5511-416d-b3a1-f192fe7f87a4)
+
+
+
     
+
 ## Feedback
 
 If you have any feedback, please reach out to us at stutijain2705@gmail.com
