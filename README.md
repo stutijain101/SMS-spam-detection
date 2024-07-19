@@ -4,8 +4,8 @@ This project focuses on building a robust machine learning model to classify SMS
 
 ### Dataset
 Source: SMS Spam Collection Data Set
-Original Size: 5572 rows and 5 columns
-After Cleaning: 5169 rows and 2 columns (label and message)
+- Original Size: 5572 rows and 5 columns
+- After Cleaning: 5169 rows and 2 columns
 
 ### Project Steps
 1. Data Cleaning
@@ -39,9 +39,7 @@ Precision Score: 1.0 (indicating high performance)
 
 - Bernoulli Naive Bayes:
 Accuracy: 0.984
-Confusion Matrix:
-
-[[895   1]
+Confusion Matrix:[[895   1]
  [ 16 122]]
 Precision Score: 0.992
 
@@ -52,8 +50,7 @@ Precision Score: 0.992
 5. Evaluation
 Multinomial Naive Bayes outperformed other models in terms of both accuracy and precision.
 #### Final accuracy achieved: 0.972
-6. Improvement
-Improved the model performance through hyperparameter tuning and advanced preprocessing techniques.
+6. Improved the model performance through hyperparameter tuning and advanced preprocessing techniques.
 #### Increased accuracy from 0.959 to 0.972.
 
 
@@ -80,8 +77,10 @@ Improved the model performance through hyperparameter tuning and advanced prepro
 ## Installation
 - Installation
   Clone the repository:
-  git clone https://github.com/     yourusername/sms-spam-detection.git
-   cd sms-spam-detection
+  git clone https://github.com/yourusername/sms-spam-detection.git
+
+
+  cd sms-spam-detection
 
 - Install the required packages:
   pip install -r requirements.txt
