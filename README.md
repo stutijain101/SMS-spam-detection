@@ -91,7 +91,7 @@ Multinomial Naive Bayes outperformed other models in terms of both accuracy and 
 
 
 ## Installation
-- Installation
+
   Clone the repository:
   git clone https://github.com/yourusername/sms-spam-detection.git
 
