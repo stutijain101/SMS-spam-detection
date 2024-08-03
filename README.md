@@ -103,19 +103,6 @@ Multinomial Naive Bayes outperformed other models in terms of both accuracy and 
 
 - Start Jupyter Notebook:
   jupyter notebook (and run it)
-
-## Demo
-
-![WhatsApp Image 2024-07-19 at 6 23 58 PM](https://github.com/user-attachments/assets/ad20a757-6ff8-43d4-a391-648182f888d0)
-#### predicting as "not a spam" SMS
-![WhatsApp Image 2024-07-19 at 6 23 57 PM](https://github.com/user-attachments/assets/703c2c7f-ed72-48aa-af63-dcf66de8688b)
-#### predicting as "spam" SMS
-![WhatsApp Image 2024-07-19 at 6 23 57 PM (1)](https://github.com/user-attachments/assets/f7de3ae1-5511-416d-b3a1-f192fe7f87a4)
-
-
-
-    
-
 ## Feedback
 
 If you have any feedback, please reach out to us at stutijain2705@gmail.com
